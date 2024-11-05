@@ -1,3 +1,3 @@
 # ECS-terraform
 
-Working AWS ECS to get the understanding how it works with terraform and how we can provison resouces through that.
+I'm working on AWS ECS to understand how it works with Terraform and how we can provision resources through that.
